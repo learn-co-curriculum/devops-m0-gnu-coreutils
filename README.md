@@ -16,7 +16,7 @@ All the tools in the GNU suite are released under the *GNU General Public Licens
 
 ## Tools in the collection
 
-Here's a non-exhaustive list of some of the most commonly used tools belonging to the GNU suite, and by extension, *Linux*:
+Here's a non-exhaustive list of some of the most commonly used commands belonging to the GNU suite, and by extension, *Linux*:
 
 - `ls`: Lists the contents of a directory.
 
@@ -87,12 +87,12 @@ You can pipe as many times as you need to in a single command, so get as creativ
 
 Piping is closely related to what is known as the **UNIX Philosophy**, which are a set of guiding principles for designing and developing programs. You can find this philosophy in practice all over the *GNU/Linux* ecosystem.
 
-The UNIX philosophy is actually very straightforward, and is based on a few key ideas, the most essential being:
+The *UNIX* philosophy is actually very straightforward, and is based on a few key ideas, the most essential being:
 
 - Make each program do one thing well; if you need to do a new job, create a new program rather than complicating an existing one.
 - Expect the output of every program to become the input to another, to allow for piping and reuse.
 
-While not required, following the UNIX Philosophy can allow you to create programs that are simple, modular, and easy to maintain/understand, while also giving you a deeper understanding of how UNIX-like systems work.
+While not required, following the *UNIX* Philosophy can allow you to create programs that are simple, modular, and easy to maintain/understand, while also giving you a deeper understanding of how *UNIX-like* systems work.
 
 ## Portability
 
